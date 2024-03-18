@@ -8,5 +8,11 @@ Diretório para Programação Lógica e Funcional 2024-1 - Bacharel Ciência da 
 [Código Fonte em Python](https://colab.research.google.com/drive/190RFOXGGZZUnlsJTSm_uRla6IOW3k6if?usp=sharing)
 
 # Listas
+
 [Código Fonte em Haskell](https://replit.com/@Juliada19/bcc-plf-2024-aula-listas-haskell?v=1)
+
 [Código Fonte em Python](https://replit.com/@Juliada19/bcc-plf-2024-aula-listas-py?v=1)
+
+# Where, Tuplas e Recursividade
+
+[Código Fonte em Haskell](https://replit.com/@Juliada19/where-tuplas-recursividade-haskell?v=1)
