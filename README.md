@@ -22,3 +22,4 @@ Diretório para Programação Lógica e Funcional 2024-1 - Bacharel Ciência da 
 São funções que não tem um nome, elas são definidas dentro de outras funções, geralmente são usadas para passar funções como parâmetro para outras funções. Como funções LAMBDA.
 
 [Código fonte em Haskell](https://replit.com/@Juliada19/bcc-plf-2024-funcoes-anonimas-alta-ordem?v=1)
+[Código fonte em Python](https://replit.com/@Juliada19/bcc-plf-2024-funcoes-anonimas-alta-ordem-1?v=1)
